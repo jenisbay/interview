@@ -16,4 +16,7 @@ public class Main {
         System.out.println("Method3");
     }
 
+    public static void method6() {
+
+    }
 }
