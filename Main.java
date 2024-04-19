@@ -8,4 +8,7 @@ public class Main {
         System.out.println("Hi!");
     }
 
+    public static void method2(){
+        System.out.println("Method2");
+    }
 }
