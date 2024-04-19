@@ -11,4 +11,9 @@ public class Main {
     public static void method2(){
         System.out.println("Method2");
     }
+
+    public static void method3() {
+        System.out.println("Method3");
+    }
+
 }
