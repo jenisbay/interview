@@ -12,4 +12,9 @@ public class Main {
         System.out.println("Method");
     }
 
+    public static void method1(){
+        System.out.println("Method1");
+    }
+
+
 }
