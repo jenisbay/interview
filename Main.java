@@ -8,13 +8,7 @@ public class Main {
         System.out.println("Hi!");
     }
 
-    public static void method(){
-        System.out.println("Method");
+    public static void method2(){
+        System.out.println("Method2");
     }
-
-    public static void method1(){
-        System.out.println("Method1");
-    }
-
-
 }
